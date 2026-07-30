@@ -68,8 +68,11 @@
 
 【プロンプトの組み立て方（6つの箱）】
 ①人物　②髪型・服装　③場所　④行動・表情　⑤光・時間帯　⑥写真の撮られ方
-の6項目を必ず含め、上記の固定要素は全プロンプト共通、
-場所・時間帯・ポーズ・表情・撮影距離・服装の細部だけを{{必要枚数}}本の間で変化させてください。
+の6項目を必ず含め、上記の固定要素（顔・体つき・アクセサリー・私服の系統・
+水着の色と形を含む「シグネチャールック」）は水着シーンかどうかに関わらず
+全プロンプト共通にしてください。場所・時間帯・ポーズ・表情・撮影距離・
+髪型のアレンジ（下ろす/ハーフアップ等）・アウターや小物だけを{{必要枚数}}本の間で変化させ、
+私服や水着の色・形そのものは変えないでください。
 
 【生成エラーを避けるための必須ルール】
 ・実在の有名人・特定の人物を想起させる表現は使わない
@@ -83,12 +86,14 @@
 　"tasteful resort/travel editorial photography" のような
 　プロの撮影文脈を示す語を入れ、身体の一部を強調するクローズアップは避け、
 　全身または胸から上の自然な構図にする
-・水着は"a standard two-piece bikini with moderate, everyday coverage,
-　like a typical resort/beach bikini from a mainstream swimwear brand"
-　のように具体的に指定し、"not a high-waisted retro style, not oversized
-　shorts, not a string/thong bikini, not a school/athletic swimsuit"と
-　明記して、スク水にも紐ビキニにも、逆にハイウエストの下着のような
-　地味すぎる見た目にもならないようにする（際どすぎ／地味すぎの両方を否定する）
+・水着はキャラクター設計シートに固定した"a solid black two-piece bikini,
+　a triangle top with thin straps and a horizontal underbust band, and
+　standard bikini bottoms with side-tie details, moderate everyday
+　coverage like a typical resort/beach bikini from a mainstream
+　swimwear brand, not a high-waisted retro style, not oversized shorts,
+　not a string/thong bikini, not a school/athletic swimsuit"を毎回
+　そのまま使い、色・形を変えない（スク水にも紐ビキニにも、逆にハイウエストの
+　下着のような地味すぎる見た目にもならないようにする）
 ・胸元やヒップを強調するアングル、カメラに正対して誘うような
 　視線・ポーズは含めない。全身または胸から上の自然な構図に限定する
 ・ヌードや性的行為を想起させる構図・ポーズは含めない
@@ -115,7 +120,8 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 - [ ] "sexy" "seductive" "sensual" 等の扇情的な形容詞を使っていない（→ "confident" "natural" 等に置換済み）
 - [ ] 撮影ジャンルを示す語（editorial / lifestyle / catalog / natural snapshot）が入っている
 - [ ] 水着・肌見せカットの場合、"tasteful" "resort/travel editorial" 等のプロ文脈語が入っており、身体の一部を強調するクローズアップになっていない
-- [ ] 水着は"a standard two-piece bikini with moderate, everyday coverage, like a typical resort/beach bikini from a mainstream swimwear brand, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit"のように具体的に指定されている（指定不足はスク水化・紐ビキニ化、"full coverage"の強調しすぎはハイウエスト下着化しやすいため、両極端を避けて"普通のビキニ"に寄せる）
+- [ ] 水着はキャラクター設計シート固定の"solid black"の色・トライアングルビキニの形をそのまま使い、他の色・形になっていない（指定不足はスク水化・紐ビキニ化、"full coverage"の強調しすぎはハイウエスト下着化しやすいため、固定の言い回しを都度使い回す）
+- [ ] 私服・アクセサリー（シルバーネックレス＋フープピアス）もキャラクター設計シートのシグネチャールックと一致している
 - [ ] 胸元・ヒップを強調するアングルや、カメラに向けた誘うようなポーズになっていない
 - [ ] ヌード・性的行為を想起させる構図やポーズの記述がない
 - [ ] ブランドロゴ・商標名が入っていない
