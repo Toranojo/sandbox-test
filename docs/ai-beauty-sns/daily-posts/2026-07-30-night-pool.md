@@ -106,3 +106,63 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 1. 上記6本をGPTの画像生成にそのまま貼って生成
 2. 生成結果を画像QA担当のチェック（`02-team-structure.md`：手指・目線・歯・耳・背景・反射＋同一人物としての一貫性）にかけ、採用4枚を選定
 3. 採用画像が決まったら、コピーライター工程（ストーリー＋質問付きキャプション）へ
+
+---
+
+## 有料コンテンツ用・グラビアポーズ版（①〜⑥とは別シチュエーション）
+
+同じナイトプールの世界観で、①〜⑥とは異なる場所・ポーズを使った有料コンテンツ専用の5本。`characters/001-mio.md`の共通ルールの「OKポーズ」（体重を片足にかける、自然にひねる、軽く腰に手を添える、振り返る、自然に座る等）のみを使用し、「NGポーズ」（谷間を寄せる、脚を大きく開く、四つん這いでお尻を突き出す、誘う表情）は一切含めていない。
+
+**⑦ プールサイドで振り返る立ちポーズ**
+- 行動・表情：歩きながら振り返り、肩越しに自然な微笑みを見せる
+- 光・時間帯：夜、プールサイドの間接照明
+- 撮られ方：3/4身、縦向き、tasteful resort catalog photography
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure with a defined waist, walking along a resort night pool deck and glancing back naturally over her shoulder with a soft smile, wearing a solid black two-piece bikini, a triangle top with thin straps and a horizontal underbust band, and standard bikini bottoms with side-tie details, moderate everyday coverage like a typical resort/beach bikini from a mainstream swimwear brand, resort swimwear, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit, three-quarter body shot, no emphasis on the chest or hips, tasteful resort catalog photography, soft indirect poolside lighting at night, natural relaxed expression, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑧ 手すりに寄りかかる立ちポーズ**
+- 行動・表情：プールの手すりに軽くもたれ、景色を眺めながら自然な表情
+- 光・時間帯：夜、遠景の街明かり
+- 撮られ方：ウエストアップ〜3/4身、縦向き、resort lifestyle catalog photography
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, leaning casually against a poolside railing at a resort night pool, weight shifted onto one leg, looking out at the city lights with a calm natural expression, wearing a solid black two-piece bikini, a triangle top with thin straps and a horizontal underbust band, and standard bikini bottoms with side-tie details, moderate everyday coverage like a typical resort/beach bikini from a mainstream swimwear brand, resort swimwear, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit, three-quarter to waist-up shot, no emphasis on the chest or hips, resort lifestyle catalog photography, distant city lights at night, natural relaxed expression, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑨ プール縁に腰掛け、脚を自然に組む**
+- 行動・表情：プールサイドの縁に腰掛け、脚を自然に組んでこちらを見る
+- 光・時間帯：夜、足元のライトアップ
+- 撮られ方：3/4身の座りポーズ、縦向き、tasteful catalog photography
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure with a defined waist, sitting naturally on the edge of a resort night pool deck with her legs crossed casually, looking toward the camera with a calm confident expression, wearing a solid black two-piece bikini, a triangle top with thin straps and a horizontal underbust band, and standard bikini bottoms with side-tie details, moderate everyday coverage like a typical resort/beach bikini from a mainstream swimwear brand, resort swimwear, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit, three-quarter seated shot, no emphasis on the chest or hips, tasteful resort catalog photography, soft ground-level lighting at night, natural confident expression, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑩ デッキチェアに横向きに座り、肘をついて寄りかかる**
+- 行動・表情：デッキチェアに横向きに腰掛け、片肘をついて自然にもたれる
+- 光・時間帯：夜、間接照明の暖色光
+- 撮られ方：ウエストアップ〜3/4身、縦向き、resort lifestyle catalog photography
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, sitting sideways on a poolside deck chair at a resort at night, propped up naturally on one elbow, relaxed calm expression, wearing a solid black two-piece bikini, a triangle top with thin straps and a horizontal underbust band, and standard bikini bottoms with side-tie details, moderate everyday coverage like a typical resort/beach bikini from a mainstream swimwear brand with a light cover-up draped nearby, resort swimwear, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit, three-quarter to waist-up shot, no emphasis on the chest or hips, resort lifestyle catalog photography, warm ambient lighting at night, natural relaxed expression, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑪ 浅瀬に立ち、水面に手を触れる**
+- 行動・表情：プールの浅瀬に立ち、水面に軽く手を触れながらこちらを見る
+- 光・時間帯：夜、水面の反射光
+- 撮られ方：ウエストアップ〜3/4身、縦向き、tasteful travel catalog photography
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure with a defined waist, standing in the shallow end of a resort night pool, lightly touching the water's surface with one hand, looking toward the camera with a natural calm expression, wearing a solid black two-piece bikini, a triangle top with thin straps and a horizontal underbust band, and standard bikini bottoms with side-tie details, moderate everyday coverage like a typical resort/beach bikini from a mainstream swimwear brand, resort swimwear, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit, three-quarter to waist-up shot, no emphasis on the chest or hips, tasteful travel catalog photography, reflected light on the water surface at night, natural calm expression, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+### 生成前チェック（⑦〜⑪）
+
+- [x] 全て`characters/001-mio.md`の「OKポーズ」リストの範囲内（体重移動・振り返り・自然な着座・肘をつく・水面に触れる）
+- [x] 谷間強調・M字開脚・お尻を突き出す構図・誘う表情は含まれていない
+- [x] 固定要素（黒ビキニ、シルバーアクセサリー、顔・体つき）は①〜⑥と共通
+- [x] "no nudity, no sexual content" を明示
+- [x] 縦向き（人物中心の寄りのため）で統一
+- [x] 1プロンプト1シーン
