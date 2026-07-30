@@ -17,9 +17,11 @@
 
 有料note 1記事想定 → **6枚**生成（採用目標4枚、却下分を見込んで多めに生成）。
 
-## STEP③ GPTに貼る完成プロンプト（6本）
+## STEP③ GPTに貼る完成プロンプト（6本・v2）
 
-`characters/001-mio.md` の固定要素（26歳、黒髪ロング、口元の泣きぼくろ、透明感メイク、華奢な体型）を全プロンプト共通とし、場所・ポーズ・表情・撮影距離のみ変化させている。全て `characters/001-mio.md` の「有料コンテンツの範囲」ルール（水着まで／ヌード・性的行為を想起させる構図は禁止）に沿った tasteful な構図にしている。
+> **v2改訂メモ**：v1は「simple one-piece swimsuit」とだけ指定した結果、生成結果が全てスク水のような見た目になってしまったため修正。①水着を「stylish two-piece bikini, resort swimwear」＋「not a school/athletic swimsuit」で明示、②`characters/001-mio.md`のユーザー提供参照画像に基づく顔・体つきの記述（伏し目がちな目元、唇の下やや右寄りのほくろ、スレンダーグラマー体型など）を全プロンプト共通で追加、の2点を反映済み。
+
+`characters/001-mio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型）を全プロンプト共通とし、場所・ポーズ・表情・撮影距離のみ変化させている。全て `characters/001-mio.md` の「有料コンテンツの範囲」ルール（水着まで／ヌード・性的行為を想起させる構図は禁止）に沿った tasteful な構図にしている。
 
 ---
 
@@ -29,11 +31,17 @@
 - 撮られ方：全身、tasteful resort travel editorial photography
 
 ```
-A 26-year-old adult Japanese woman with long black hair and a natural
-under-eye mole, standing confidently poolside at a resort night pool,
-wearing a simple one-piece swimsuit, full-body shot, tasteful resort
-travel editorial photography, softly lit by the pool's ambient night
-lighting, natural relaxed expression, no nudity, no sexual content
+A 26-year-old adult Japanese woman, soft oval face with downturned
+almond eyes, straight nose, glossy nude-pink full lips, one small
+natural beauty mark just below her lower lip slightly off-center,
+long black hair with a center part and a few loose face-framing
+strands, dewy glass-skin complexion, slender yet glamorous figure
+with a defined waist, standing confidently poolside at a resort night
+pool, wearing a stylish two-piece bikini in a solid neutral color,
+resort swimwear, not a school/athletic swimsuit, full-body shot,
+tasteful resort travel editorial photography, softly lit by the
+pool's ambient night lighting, natural relaxed expression, no nudity,
+no sexual content
 ```
 
 **② デッキチェア・ウエストアップ**
@@ -42,12 +50,16 @@ lighting, natural relaxed expression, no nudity, no sexual content
 - 撮られ方：ウエストアップ、resort lifestyle editorial photography
 
 ```
-A 26-year-old adult Japanese woman with long black hair and a natural
-under-eye mole, relaxing on a poolside deck chair at a resort at night,
-holding a drink, wearing a simple one-piece swimsuit with a light
-cover-up draped on her shoulders, waist-up shot, natural relaxed smile,
-warm ambient lighting, resort lifestyle editorial photography, no
-nudity, no sexual content
+A 26-year-old adult Japanese woman, soft oval face with downturned
+almond eyes, glossy nude-pink lips, one small natural beauty mark just
+below her lower lip slightly off-center, long black hair with a center
+part, dewy glass-skin complexion, slender yet glamorous figure,
+relaxing on a poolside deck chair at a resort at night, holding a
+drink, wearing a stylish two-piece bikini in a solid neutral color
+with a light cover-up draped on her shoulders, resort swimwear, not a
+school/athletic swimsuit, waist-up shot, natural relaxed smile, warm
+ambient lighting, resort lifestyle editorial photography, no nudity,
+no sexual content
 ```
 
 **③ プール際・後ろ姿**
@@ -56,11 +68,14 @@ nudity, no sexual content
 - 撮られ方：全身の後ろ姿、travel editorial photography
 
 ```
-A 26-year-old adult Japanese woman with long black hair, seen from
+A 26-year-old adult Japanese woman with long black hair with a center
+part, slender yet glamorous figure with a defined waist, seen from
 behind, sitting at the pool's edge with her feet in the water at a
-resort night pool, wearing a simple one-piece swimsuit, looking out at
-the night view, full-body back view, reflected light on the water
-surface, travel editorial photography, no nudity, no sexual content
+resort night pool, wearing a stylish two-piece bikini in a solid
+neutral color, resort swimwear, not a school/athletic swimsuit,
+looking out at the night view, full-body back view, reflected light
+on the water surface, travel editorial photography, no nudity, no
+sexual content
 ```
 
 **④ プールバー・横顔**
@@ -69,11 +84,15 @@ surface, travel editorial photography, no nudity, no sexual content
 - 撮られ方：ウエストアップの横顔、catalog photography
 
 ```
-A 26-year-old adult Japanese woman with long black hair and a natural
-under-eye mole, at a resort pool bar at night, turning slightly to the
-side with a natural calm expression while receiving a drink, wearing a
-simple one-piece swimsuit with a light cover-up, waist-up side profile,
-warm bar lighting, catalog photography, no nudity, no sexual content
+A 26-year-old adult Japanese woman, soft oval face with downturned
+almond eyes, glossy nude-pink lips, one small natural beauty mark just
+below her lower lip slightly off-center, long black hair with a center
+part, dewy glass-skin complexion, at a resort pool bar at night,
+turning slightly to the side with a natural calm expression while
+receiving a drink, wearing a stylish two-piece bikini in a solid
+neutral color with a light cover-up, resort swimwear, not a
+school/athletic swimsuit, waist-up side profile, warm bar lighting,
+catalog photography, no nudity, no sexual content
 ```
 
 **⑤ 遠景・ライトアップされたプール全体**
@@ -82,12 +101,13 @@ warm bar lighting, catalog photography, no nudity, no sexual content
 - 撮られ方：やや引きの全身、artistic travel editorial photography
 
 ```
-A 26-year-old adult Japanese woman with long black hair, standing
-naturally at the edge of a beautifully lit resort night pool, wide shot
-showing the illuminated pool and surrounding architecture, full-body,
-wearing a simple one-piece swimsuit with a light cover-up, calm natural
-pose, artistic travel editorial photography, no nudity, no sexual
-content
+A 26-year-old adult Japanese woman with long black hair with a center
+part, slender yet glamorous figure, standing naturally at the edge of
+a beautifully lit resort night pool, wide shot showing the illuminated
+pool and surrounding architecture, full-body, wearing a stylish
+two-piece bikini in a solid neutral color with a light cover-up,
+resort swimwear, not a school/athletic swimsuit, calm natural pose,
+artistic travel editorial photography, no nudity, no sexual content
 ```
 
 **⑥ 友人と談笑・自然なスナップ**
@@ -96,12 +116,15 @@ content
 - 撮られ方：上半身、natural snapshot風
 
 ```
-A 26-year-old adult Japanese woman with long black hair and a natural
-under-eye mole, laughing candidly while chatting with a friend at a
-resort night pool, not looking at the camera, upper-body shot, wearing
-a simple one-piece swimsuit with a light cover-up, soft poolside
-lighting at night, natural candid snapshot photography, no nudity, no
-sexual content
+A 26-year-old adult Japanese woman, soft oval face with downturned
+almond eyes, glossy nude-pink lips, one small natural beauty mark just
+below her lower lip slightly off-center, long black hair with a center
+part, dewy glass-skin complexion, laughing candidly while chatting
+with a friend at a resort night pool, not looking at the camera,
+upper-body shot, wearing a stylish two-piece bikini in a solid neutral
+color with a light cover-up, resort swimwear, not a school/athletic
+swimsuit, soft poolside lighting at night, natural candid snapshot
+photography, no nudity, no sexual content
 ```
 
 ---

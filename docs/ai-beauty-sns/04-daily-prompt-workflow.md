@@ -83,6 +83,9 @@
 　"tasteful resort/travel editorial photography" のような
 　プロの撮影文脈を示す語を入れ、身体の一部を強調するクローズアップは避け、
 　全身または胸から上の自然な構図にする
+・水着は"stylish two-piece bikini, resort swimwear"のように
+　具体的に指定し、"not a school/athletic swimsuit"と明記して
+　スク水のような見た目になるのを避ける
 ・ヌードや性的行為を想起させる構図・ポーズは含めない
 　（"no nudity, no sexual content" を明示してよい）
 ・ブランドロゴ・商標名は入れない
@@ -107,6 +110,7 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 - [ ] "sexy" "seductive" "sensual" 等の扇情的な形容詞を使っていない（→ "confident" "natural" 等に置換済み）
 - [ ] 撮影ジャンルを示す語（editorial / lifestyle / catalog / natural snapshot）が入っている
 - [ ] 水着・肌見せカットの場合、"tasteful" "resort/travel editorial" 等のプロ文脈語が入っており、身体の一部を強調するクローズアップになっていない
+- [ ] 水着は"stylish two-piece bikini, resort swimwear, not a school/athletic swimsuit"のように具体的に指定されている（「シンプルなワンピース水着」だけの指定はスク水化しやすいため避ける）
 - [ ] ヌード・性的行為を想起させる構図やポーズの記述がない
 - [ ] ブランドロゴ・商標名が入っていない
 - [ ] 1プロンプト1シーン（矛盾した行動・状況の混在がない）
@@ -121,7 +125,7 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 
 | シーン名 | ①人物 | ②髪型・服装 | ③場所 | ④行動・表情 | ⑤光・時間帯 | ⑥撮られ方 |
 | --- | --- | --- | --- | --- | --- | --- |
-| 夜景バー街・全身 | 26歳の成人日本人女性、口元に泣きぼくろ | 黒髪ロング、モノトーンのシンプルなワンピース | 夜景の見えるバー街の路地 | 街並みを眺めながら自然に歩く | 夜、ネオンと街灯の柔らかな光 | editorial lifestyle photography、35mmレンズ風の自然なスナップ |
+| 夜景バー街・全身 | 26歳の成人日本人女性、唇の下やや右寄りにほくろ | 黒髪ロング、モノトーンのシンプルなワンピース | 夜景の見えるバー街の路地 | 街並みを眺めながら自然に歩く | 夜、ネオンと街灯の柔らかな光 | editorial lifestyle photography、35mmレンズ風の自然なスナップ |
 | 夜景バー街・上半身アップ | 同上 | 同上 | 同じ路地、手すり越し | 少しクールな伏し目でこちらを見ない | 同上 | 自然な実写感のあるcatalog photography |
 | カウンター席・横顔 | 同上 | 同上、アウター着用 | バーのカウンター席 | 飲み物を片手に横を向いて微笑む | 暖色の間接照明 | natural snapshot、スマートフォン撮影風 |
 | 夜景・後ろ姿 | 同上 | 同上 | 夜景を背にした展望スポット | 夜景を眺める後ろ姿 | 夜景の光を背景に | lifestyle editorial photography |
@@ -130,7 +134,7 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 
 | シーン名 | ①人物 | ②髪型・服装 | ③場所 | ④行動・表情 | ⑤光・時間帯 | ⑥撮られ方 |
 | --- | --- | --- | --- | --- | --- | --- |
-| プールサイド・全身 | 26歳の成人日本人女性、口元に泣きぼくろ、tasteful resort styling | 黒髪ロング、シンプルなワンピース水着 | リゾートホテルのプールサイド | リラックスして自然に立つ、confidentな表情 | 昼、明るい自然光 | tasteful travel editorial photography、全身、no nudity, no sexual content |
+| プールサイド・全身 | 26歳の成人日本人女性、唇の下やや右寄りにほくろ、tasteful resort styling | 黒髪ロング、上質なリゾートビキニ（スク水にしない） | リゾートホテルのプールサイド | リラックスして自然に立つ、confidentな表情 | 昼、明るい自然光 | tasteful travel editorial photography、全身、no nudity, no sexual content |
 | デッキチェア・ウエストアップ | 同上 | 同上、羽織り物を軽く肩にかける | プールサイドのデッキチェア | 読書をしながらくつろぐ | 午後の柔らかな光 | resort lifestyle editorial photography、ウエストアップ |
 | プール際・横顔 | 同上 | 同上 | プールの縁 | 水面を眺める横顔、自然な表情 | 昼の反射光 | catalog photography、no close-up on body |
 | 遠景・全身後ろ姿 | 同上 | 同上 | リゾートの景観を背にしたテラス | 景色を眺める後ろ姿 | 夕方前の柔らかい光 | travel editorial photography、全身 |
