@@ -12,6 +12,7 @@
 | [characters/001-mio.md](./characters/001-mio.md) | 1人目のキャラクター設計シート（澪） |
 | [04-daily-prompt-workflow.md](./04-daily-prompt-workflow.md) | 日次投稿の「シーン決定→GPT向け画像生成プロンプト生成」フロー |
 | [daily-posts/2026-07-30-night-pool.md](./daily-posts/2026-07-30-night-pool.md) | フローの実行例（ナイトプール・有料note向け6プロンプト） |
+| [05-content-calendar.md](./05-content-calendar.md) | 投稿カレンダー／ローテーションルール（5日ルール・有料コンテンツ3〜4日に1回・投稿ログ） |
 
 ## 運用の大前提（コンプライアンス）
 
