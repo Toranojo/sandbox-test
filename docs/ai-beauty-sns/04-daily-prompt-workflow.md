@@ -83,9 +83,12 @@
 　"tasteful resort/travel editorial photography" のような
 　プロの撮影文脈を示す語を入れ、身体の一部を強調するクローズアップは避け、
 　全身または胸から上の自然な構図にする
-・水着は"stylish two-piece bikini, resort swimwear"のように
-　具体的に指定し、"not a school/athletic swimsuit"と明記して
-　スク水のような見た目になるのを避ける
+・水着は"stylish two-piece bikini with full coverage, resort swimwear"
+　のように具体的に指定し、"not a school/athletic swimsuit,
+　not a string/thong bikini"と明記して、スク水にも紐ビキニにも
+　ならないようにする
+・胸元やヒップを強調するアングル、カメラに正対して誘うような
+　視線・ポーズは含めない。全身または胸から上の自然な構図に限定する
 ・ヌードや性的行為を想起させる構図・ポーズは含めない
 　（"no nudity, no sexual content" を明示してよい）
 ・ブランドロゴ・商標名は入れない
@@ -110,12 +113,13 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 - [ ] "sexy" "seductive" "sensual" 等の扇情的な形容詞を使っていない（→ "confident" "natural" 等に置換済み）
 - [ ] 撮影ジャンルを示す語（editorial / lifestyle / catalog / natural snapshot）が入っている
 - [ ] 水着・肌見せカットの場合、"tasteful" "resort/travel editorial" 等のプロ文脈語が入っており、身体の一部を強調するクローズアップになっていない
-- [ ] 水着は"stylish two-piece bikini, resort swimwear, not a school/athletic swimsuit"のように具体的に指定されている（「シンプルなワンピース水着」だけの指定はスク水化しやすいため避ける）
+- [ ] 水着は"stylish two-piece bikini with full coverage, resort swimwear, not a school/athletic swimsuit, not a string/thong bikini"のように具体的に指定されている（「シンプルなワンピース水着」だけの指定はスク水化、指定不足は紐ビキニ化しやすいため避ける）
+- [ ] 胸元・ヒップを強調するアングルや、カメラに向けた誘うようなポーズになっていない
 - [ ] ヌード・性的行為を想起させる構図やポーズの記述がない
 - [ ] ブランドロゴ・商標名が入っていない
 - [ ] 1プロンプト1シーン（矛盾した行動・状況の混在がない）
 
-> **生成が弾かれた場合の対応方針**：表現を過激にする／隠語で回避するといった「フィルタを掻い潜る」方向の修正はしない。露出度・構図を下げる、撮影文脈語をより明確にする、状況をシンプルにする、といった方向で調整する。それでも通らないカットは、`characters/001-mio.md` の「有料コンテンツの範囲」に照らして無理に扱わない。
+> **生成が弾かれた場合の対応方針**：表現を過激にする／隠語で回避する／「どこを直せば通るか」を繰り返しAIに聞きながら試行錯誤して押し通す、といった「フィルタを掻い潜る」方向の修正は**しない**。ポリシー違反の判定が出たら、それは「シーン設計が範囲を超えている」というサインとして受け取り、水着の布面積を増やす・構図をより自然体にする・シーンをより控えめなものに変える、のいずれかで対応する。1〜2回の言い回し調整（露出度・構図を下げる方向）で解決しない場合は、そのカットの採用自体を見送り、`characters/001-mio.md` の「有料コンテンツの範囲」に照らして別のシーンに差し替える。
 
 ---
 
