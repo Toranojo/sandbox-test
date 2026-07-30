@@ -9,6 +9,8 @@
 | [01-operation-guide.md](./01-operation-guide.md) | 運用の全体像・STEP①〜⑥・プロンプト集・デメリットと注意点 |
 | [02-team-structure.md](./02-team-structure.md) | エージェントチーム体制（役割・責務・ワークフロー・KPI） |
 | [03-character-brief-template.md](./03-character-brief-template.md) | キャラクター設計シートのテンプレート |
+| [characters/001-mio.md](./characters/001-mio.md) | 1人目のキャラクター設計シート（澪） |
+| [04-daily-prompt-workflow.md](./04-daily-prompt-workflow.md) | 日次投稿の「シーン決定→GPT向け画像生成プロンプト生成」フロー |
 
 ## 運用の大前提（コンプライアンス）
 
