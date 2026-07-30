@@ -83,10 +83,12 @@
 　"tasteful resort/travel editorial photography" のような
 　プロの撮影文脈を示す語を入れ、身体の一部を強調するクローズアップは避け、
 　全身または胸から上の自然な構図にする
-・水着は"stylish two-piece bikini with full coverage, resort swimwear"
-　のように具体的に指定し、"not a school/athletic swimsuit,
-　not a string/thong bikini"と明記して、スク水にも紐ビキニにも
-　ならないようにする
+・水着は"a standard two-piece bikini with moderate, everyday coverage,
+　like a typical resort/beach bikini from a mainstream swimwear brand"
+　のように具体的に指定し、"not a high-waisted retro style, not oversized
+　shorts, not a string/thong bikini, not a school/athletic swimsuit"と
+　明記して、スク水にも紐ビキニにも、逆にハイウエストの下着のような
+　地味すぎる見た目にもならないようにする（際どすぎ／地味すぎの両方を否定する）
 ・胸元やヒップを強調するアングル、カメラに正対して誘うような
 　視線・ポーズは含めない。全身または胸から上の自然な構図に限定する
 ・ヌードや性的行為を想起させる構図・ポーズは含めない
@@ -113,7 +115,7 @@ GPTの画像生成は「実在人物に見えるリアルな人物表現」「�
 - [ ] "sexy" "seductive" "sensual" 等の扇情的な形容詞を使っていない（→ "confident" "natural" 等に置換済み）
 - [ ] 撮影ジャンルを示す語（editorial / lifestyle / catalog / natural snapshot）が入っている
 - [ ] 水着・肌見せカットの場合、"tasteful" "resort/travel editorial" 等のプロ文脈語が入っており、身体の一部を強調するクローズアップになっていない
-- [ ] 水着は"stylish two-piece bikini with full coverage, resort swimwear, not a school/athletic swimsuit, not a string/thong bikini"のように具体的に指定されている（「シンプルなワンピース水着」だけの指定はスク水化、指定不足は紐ビキニ化しやすいため避ける）
+- [ ] 水着は"a standard two-piece bikini with moderate, everyday coverage, like a typical resort/beach bikini from a mainstream swimwear brand, not a high-waisted retro style, not oversized shorts, not a string/thong bikini, not a school/athletic swimsuit"のように具体的に指定されている（指定不足はスク水化・紐ビキニ化、"full coverage"の強調しすぎはハイウエスト下着化しやすいため、両極端を避けて"普通のビキニ"に寄せる）
 - [ ] 胸元・ヒップを強調するアングルや、カメラに向けた誘うようなポーズになっていない
 - [ ] ヌード・性的行為を想起させる構図やポーズの記述がない
 - [ ] ブランドロゴ・商標名が入っていない
