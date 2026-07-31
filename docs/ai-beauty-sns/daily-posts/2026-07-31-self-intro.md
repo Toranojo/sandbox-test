@@ -77,13 +77,13 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 A 26-year-old adult Japanese woman, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, sprawled casually on a sofa at home with her legs stretched out, scrolling on her smartphone looking mildly bored, not looking at the camera, wearing simple monotone loungewear, relaxed slouched posture, soft afternoon natural light, natural candid snapshot photography as if taken by someone nearby, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
 ```
 
-**⑦ うつ伏せで肘をついて、右の鏡越しに自撮り**
-- 行動・表情：ベッドにうつ伏せになり、両肘をついて上半身を軽く起こした状態。膝を曲げて足を後ろで交差させたカジュアルなポーズ。右側にある鏡を見ながら自然に微笑んで自撮り
+**⑦ うつ伏せで両腕を支えに立てて、右の鏡越しに自撮り**
+- 行動・表情：ベッドにうつ伏せになり、両腕をまっすぐ支えのように立てて上半身を起こした状態（肘は曲げない）。膝を曲げて足を後ろで交差させたカジュアルなポーズ。右側にある鏡を見ながら自然に微笑んで自撮り
 - 光・時間帯：昼の柔らかい自然光
 - 撮られ方：鏡越しの自撮り、上半身中心、縦向き、casual amateur mirror-selfie photography
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, lying on her stomach on a bed at home, propped up on both elbows with her upper body slightly raised, knees bent with her feet crossed casually in the air behind her, holding a smartphone and taking a selfie via a mirror positioned to her right, glancing at the mirror with a natural relaxed smile, wearing simple monotone loungewear with moderate everyday coverage, no emphasis on the chest, soft daytime natural light, casual amateur mirror-selfie photography, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, lying on her stomach on a bed at home, propped up on both straightened arms like two supports with her upper body raised, knees bent with her feet crossed casually in the air behind her, holding a smartphone and taking a selfie via a mirror positioned to her right, glancing at the mirror with a natural relaxed smile, wearing simple monotone loungewear with moderate everyday coverage, no emphasis on the chest, soft daytime natural light, casual amateur mirror-selfie photography, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
 ```
 
 **⑧ うつ伏せのままカメラを覗き込む自撮り**
