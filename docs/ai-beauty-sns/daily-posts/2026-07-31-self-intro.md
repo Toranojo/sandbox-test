@@ -77,13 +77,13 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 A 26-year-old adult Japanese woman, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, sprawled casually on a sofa at home with her legs stretched out, scrolling on her smartphone looking mildly bored, not looking at the camera, wearing simple monotone loungewear, relaxed slouched posture, soft afternoon natural light, natural candid snapshot photography as if taken by someone nearby, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
 ```
 
-**⑦ うつ伏せで前腕を休め、スマホ画面を覗き込む直撮りセルフィー**
-- 行動・表情：ベッドにうつ伏せになり、両前腕を自然に休めて上半身を軽く起こした状態。膝を曲げて足を後ろで交差させたカジュアルなポーズ。片手でスマホを顔の前にかざし、鏡を使わず画面を覗き込むように顔を寄せて柔らかく微笑む
+**⑦ うつ伏せで腕を立てて支え、スマホ画面を覗き込む直撮りセルフィー**
+- 行動・表情：ベッドにうつ伏せになり、肘は曲げずに両腕をまっすぐ立てて上半身をしっかり支えている状態。膝を曲げて足を後ろで交差させたカジュアルなポーズ。片手でスマホを顔の前にかざし、鏡を使わず画面を覗き込むように顔を寄せて柔らかく微笑む
 - 光・時間帯：昼の柔らかい自然光、窓からの光
-- 撮られ方：直撮りの自撮り（鏡なし）、上半身中心、縦向き、casual amateur phone-selfie photography
+- 撮られ方：直撮りの自撮り（鏡なし）、上半身中心、縦向き、authentic unedited phone-photo quality（AI感を避ける）
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and soft face-framing bangs, dewy glass-skin complexion, wearing a thin silver chain necklace and a small silver hoop earring, lying on her stomach on a bed at home, resting comfortably on her forearms with her upper body slightly raised, knees bent with her feet crossed casually in the air behind her, holding a smartphone up with one hand directly in front of her face (not a mirror selfie), leaning in and peering closely at the phone screen with a soft closed-mouth smile, wearing a simple white t-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, soft natural daylight from a window, minimalist bedroom with a bed and nightstand, casual amateur front-facing phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and soft face-framing bangs, natural skin texture with visible pores and subtle imperfections, wearing a thin silver chain necklace and a small silver hoop earring, lying on her stomach on a bed at home, supporting her upper body on both straightened arms (not resting on bent elbows/forearms), palms flat on the bed, arms holding her torso up, knees bent with her feet crossed casually in the air behind her, holding a smartphone up with one hand directly in front of her face (not a mirror selfie), leaning in and peering closely at the phone screen with a soft closed-mouth smile, slightly asymmetric natural expression, wearing a simple white t-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, soft natural daylight from a window with realistic shadows, minimalist bedroom with a bed and nightstand, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
 ```
 
 **⑧ うつ伏せのままカメラを覗き込む自撮り**
