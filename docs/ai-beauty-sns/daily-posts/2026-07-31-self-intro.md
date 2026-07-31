@@ -114,13 +114,14 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 ```
 
 **⑪ サムネ用・体育座りで鏡越しに顔を半分隠す自撮り（横向き）**
-- 行動・表情：鏡の前で体育座り（膝を抱える）、スマホを顔の下半分にかざした鏡越しの自撮り。目元だけが見え、残りはスマホの裏に隠れている
-- 服装・アクセサリー：添付画像と同じ（白の無地Tシャツ、グレーのショートパンツ、細いネックレス、小さめのフープピアス）
-- 光・時間帯：室内の柔らかい自然光、窓からの光
+- 行動・表情：がらんとしたミニマルな部屋の床に体育座り（膝を強く抱え込み、あごが膝に近い）。鏡の前でスマホを鼻から下にかざし、目元と前髪だけが見える
+- 服装・アクセサリー：添付画像と同じ（白の無地Tシャツ、グレーのショートパンツ、細いネックレス、小さめのピアス）
+- 部屋：白い壁・グレーの床のがらんとしたミニマルな部屋、奥に高層ビルが見える窓、鏡は縁が見える姿見（等身大ミラー）
+- 光・時間帯：窓からの柔らかい自然光
 - 撮られ方：鏡越しの自撮り、サムネイル用に横向き
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, only her eyes and the top of her face visible, one small natural beauty mark just below her lower lip slightly off-center (mostly hidden behind the phone), long black hair with a center part and soft face-framing strands, natural skin texture with visible pores and subtle imperfections, wearing a thin silver chain necklace and a small silver hoop earring, sitting on the floor in front of a full-length mirror at home in a casual knee-hug sitting pose, knees drawn up to her chest with her arms loosely wrapped around her legs, holding a smartphone up in front of the lower half of her face to take a mirror selfie, the rest of her face partially hidden behind the phone, wearing a simple plain white T-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, a softly lit minimal room with natural window light in the background, taken as a mirror selfie, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, horizontal landscape orientation, 3:2 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, only her eyes and forehead visible above the phone, one small natural beauty mark just below her lower lip slightly off-center (hidden behind the phone), long black hair with a center part falling forward around her face, natural skin texture with visible pores and subtle imperfections, wearing a thin silver chain necklace and a small silver stud earring, sitting on the floor of a bare minimal room in a tight knee-hug sitting pose, knees pulled tightly to her chest with her arms wrapped around her shins, chin resting near her knees, holding a smartphone up covering her face from the nose down, wearing a simple plain white T-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, a sparse minimal room with plain white walls and a grey floor, a window showing a soft blurred view of distant high-rise buildings, a full-length standing mirror with a visible dark frame edge, taken as a mirror selfie, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, horizontal landscape orientation, 3:2 aspect ratio
 ```
 
 **⑫ ソファでうつ伏せ、鏡に目線を合わせて首をかしげる自撮り**
