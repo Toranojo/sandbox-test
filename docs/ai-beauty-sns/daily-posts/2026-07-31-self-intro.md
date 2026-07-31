@@ -15,9 +15,9 @@
 
 ## STEP② 必要枚数
 
-無料post 1本想定 → **4枚**生成（採用目標3枚）。
+無料post 1本想定 → **6枚**生成（採用目標3〜4枚）。
 
-## STEP③ GPTに貼る完成プロンプト（4本）
+## STEP③ GPTに貼る完成プロンプト（6本）
 
 `characters/001-rio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型、シルバーアクセサリー、モノトーン私服）を全プロンプト共通とし、構図・撮影距離のみ変化させている。初投稿のため、水着等の有料要素は一切なし。**自宅シーンは特に、スマートフォンでの自撮り（セルフィー）感を意識した構図に統一**している。
 
@@ -57,6 +57,24 @@ A 26-year-old adult Japanese woman, long black hair with a center part, dewy gla
 
 ```
 A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, sitting relaxed on a sofa at home, holding a smartphone up at a slightly high angle to take a casual selfie, calm natural expression, slightly elevated selfie angle looking down at the camera, soft daytime natural light, casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑤ ベッドに寝そべっての自撮り**
+- 行動・表情：ベッドに横向きに寝そべり、気だるげにスマホで自撮り
+- 光・時間帯：昼の柔らかい光
+- 撮られ方：見下ろす角度のベッド自撮り、縦向き
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part spread naturally on the pillow, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, lying on her side on a bed at home, holding a smartphone above her to take a casual selfie from a slightly elevated angle, relaxed sleepy natural expression, wearing a simple monotone loungewear top, soft daytime natural light through a window, casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+```
+
+**⑥ ソファで暇つぶし・自然なスナップ**
+- 行動・表情：ソファに脱力して座り、スマホをいじりながら暇そうにしている（カメラ目線でない）
+- 光・時間帯：昼下がりの柔らかい光
+- 撮られ方：上半身〜全身、縦向き、natural candid snapshot
+
+```
+A 26-year-old adult Japanese woman, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, sprawled casually on a sofa at home with her legs stretched out, scrolling on her smartphone looking mildly bored, not looking at the camera, wearing simple monotone loungewear, relaxed slouched posture, soft afternoon natural light, natural candid snapshot photography as if taken by someone nearby, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
 ```
 
 ---
