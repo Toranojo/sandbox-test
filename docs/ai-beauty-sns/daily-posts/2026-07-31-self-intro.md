@@ -19,44 +19,44 @@
 
 ## STEP③ GPTに貼る完成プロンプト（4本）
 
-`characters/001-rio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型、シルバーアクセサリー、モノトーン私服）を全プロンプト共通とし、構図・撮影距離のみ変化させている。初投稿のため、水着等の有料要素は一切なし。
+`characters/001-rio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型、シルバーアクセサリー、モノトーン私服）を全プロンプト共通とし、構図・撮影距離のみ変化させている。初投稿のため、水着等の有料要素は一切なし。**自宅シーンは特に、スマートフォンでの自撮り（セルフィー）感を意識した構図に統一**している。
 
 ---
 
-**① 窓際・顔がわかるアップ**
-- 行動・表情：窓際で自然に微笑みながらこちらを見る
+**① 窓際・自撮り（顔アップ）**
+- 行動・表情：窓際でスマホを持ち、自然に微笑みながら自撮りしている
 - 光・時間帯：朝の柔らかい自然光
-- 撮られ方：顔がわかるアップ、縦向き、natural snapshot photography
+- 撮られ方：スマホ自撮り構図、腕の一部がフレーム端に写る、縦向き
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, straight nose, glossy nude-pink full lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and a few loose face-framing strands, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, sitting by a window at home, soft morning natural light, wearing a simple monotone outfit (a plain white or black top), smiling naturally at the camera, close-up portrait shot, natural candid snapshot photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, straight nose, glossy nude-pink full lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and a few loose face-framing strands, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, sitting by a window at home, taking a front-facing phone selfie, one arm slightly visible at the edge of the frame holding a smartphone, soft morning natural light, wearing a simple monotone outfit (a plain white or black top), smiling naturally at the camera, close-up selfie framing, casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
 ```
 
-**② 自然な上半身・部屋の背景**
-- 行動・表情：マグカップを持ち、リラックスした自然な表情
+**② 鏡越しの自撮り・部屋の背景**
+- 行動・表情：部屋の姿見の前でスマホを構えて自撮り
 - 光・時間帯：朝〜昼の柔らかい光
-- 撮られ方：上半身、縦向き、lifestyle editorial photography
+- 撮られ方：鏡越しのスマホ自撮り、スマホが鏡に映り込む、縦向き
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, sitting at home holding a mug of coffee, a softly lit minimal living room in the background, wearing a simple monotone outfit in neutral tones, relaxed natural expression, upper-body shot, soft daytime natural light, lifestyle editorial photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, standing in front of a full-length mirror at home taking a mirror selfie, holding up a smartphone visible in the reflection, a softly lit minimal bedroom in the background, wearing a simple monotone outfit in neutral tones, relaxed natural expression, upper-body-to-waist mirror selfie framing, soft daytime natural light, casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
 ```
 
-**③ 全身コーデ**
-- 行動・表情：部屋の中で自然に立ち、コーデを見せる
+**③ 全身コーデ・鏡越し自撮り**
+- 行動・表情：鏡の前でコーデを見せながらスマホで自撮り
 - 光・時間帯：昼の柔らかい自然光
-- 撮られ方：全身、縦向き、catalog lifestyle photography
+- 撮られ方：鏡越しの全身自撮り、縦向き
 
 ```
-A 26-year-old adult Japanese woman, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, standing naturally in a minimal, softly lit living room at home, wearing a simple monotone outfit (neutral-colored top and bottoms) in her signature clean, minimal style, full-body shot, natural relaxed pose, soft daytime natural light, catalog lifestyle photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+A 26-year-old adult Japanese woman, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, slender yet glamorous figure, standing in front of a mirror in a minimal, softly lit living room at home, taking a full-body mirror selfie with a smartphone visible in the reflection, wearing a simple monotone outfit (neutral-colored top and bottoms) in her signature clean, minimal style, natural relaxed pose, soft daytime natural light, casual amateur mirror-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
 ```
 
-**④ 横顔・自然なスナップ**
-- 行動・表情：窓の外を眺める横顔、カメラ目線でない
+**④ ソファでのくつろぎ自撮り**
+- 行動・表情：ソファに座り、スマホを高めに構えて自然な角度から自撮り
 - 光・時間帯：昼の柔らかい光
-- 撮られ方：ウエストアップの横顔、縦向き、natural snapshot風
+- 撮られ方：やや上から見下ろす自撮り角度、縦向き
 
 ```
-A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, looking out of a window in profile, not looking at the camera, calm natural expression, waist-up side profile shot, soft daytime natural light, natural candid snapshot photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, sitting relaxed on a sofa at home, holding a smartphone up at a slightly high angle to take a casual selfie, calm natural expression, slightly elevated selfie angle looking down at the camera, soft daytime natural light, casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 3:4 aspect ratio
 ```
 
 ---
