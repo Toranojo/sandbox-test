@@ -15,9 +15,9 @@
 
 ## STEP② 必要枚数
 
-無料post 1本想定 → **11枚**生成（採用目標3〜4枚、⑪はサムネ専用）。
+無料post 1本想定 → **12枚**生成（採用目標3〜4枚、⑪はサムネ専用）。
 
-## STEP③ GPTに貼る完成プロンプト（11本）
+## STEP③ GPTに貼る完成プロンプト（12本）
 
 `characters/001-rio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型、シルバーアクセサリー、モノトーン私服）を全プロンプト共通とし、構図・撮影距離のみ変化させている。初投稿のため、水着等の有料要素は一切なし。**自宅シーンは特に、スマートフォンでの自撮り（セルフィー）感を意識した構図に統一**している。
 
@@ -123,6 +123,16 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, only her eyes and the top of her face visible, one small natural beauty mark just below her lower lip slightly off-center (mostly hidden behind the phone), long black hair with a center part and soft face-framing strands, natural skin texture with visible pores and subtle imperfections, wearing a thin silver chain necklace and a small silver hoop earring, sitting on the floor in front of a full-length mirror at home in a casual knee-hug sitting pose, knees drawn up to her chest with her arms loosely wrapped around her legs, holding a smartphone up in front of the lower half of her face to take a mirror selfie, the rest of her face partially hidden behind the phone, wearing a simple plain white T-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, a softly lit minimal room with natural window light in the background, taken as a mirror selfie, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, horizontal landscape orientation, 3:2 aspect ratio
 ```
 
+**⑫ ソファでうつ伏せ、鏡に目線を合わせて首をかしげる自撮り**
+- 行動・表情：リビングのソファにうつ伏せになり、片方の前腕をクッションに乗せて休める。スマホの画面ではなく鏡そのものに目線を合わせ、少し首をかしげて柔らかく微笑む
+- 部屋：自然な家具配置（ソファ、サイドテーブル、ランプ、窓）の中に鏡が違和感なく置かれている想定
+- 光・時間帯：昼の柔らかい自然光、窓からの光
+- 撮られ方：鏡越しの自撮り、上半身中心、縦向き
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and soft face-framing strands, natural skin texture with visible pores and subtle imperfections, wearing a thin silver chain necklace and a small stud earring, lying on her stomach on a sofa in a naturally furnished living room at home, resting on one forearm on the couch cushion, knees bent with her feet crossed casually in the air behind her, holding a smartphone up with her other hand to take a mirror selfie, not looking at the phone screen but instead gazing directly at her own reflection in the mirror with a slight head tilt, soft natural smile, wearing a simple white T-shirt and grey shorts, moderate everyday coverage, no emphasis on the chest, a lived-in room with a sofa, a side table, a lamp, and a window with soft daylight in the background, a full-length mirror standing naturally against the wall as if it is a normal piece of furniture in the room, taken as a mirror selfie, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
+```
+
 ---
 
 ## STEP④ 生成前チェック
@@ -169,7 +179,7 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 
 ## 次の作業（ユーザー側）
 
-1. 上記11本をGPTの画像生成にそのまま貼って生成（⑪はサムネ用）
+1. 上記12本をGPTの画像生成にそのまま貼って生成（⑪はサムネ用）
 2. 画像QA（`02-team-structure.md`）で採用3〜4枚を選定
 3. 採用画像＋上記キャプションで明日（7/31）投稿
 4. `05-content-calendar.md` の投稿ログに1行追記（例：`2026-07-31 | 自己紹介（初投稿） | 無料 | -`）
