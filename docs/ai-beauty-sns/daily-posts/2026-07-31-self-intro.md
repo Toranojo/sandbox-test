@@ -15,9 +15,9 @@
 
 ## STEP② 必要枚数
 
-無料post 1本想定 → **8枚**生成（採用目標3〜4枚）。
+無料post 1本想定 → **10枚**生成（採用目標3〜4枚）。
 
-## STEP③ GPTに貼る完成プロンプト（8本）
+## STEP③ GPTに貼る完成プロンプト（10本）
 
 `characters/001-rio.md` の固定要素（26歳、黒髪ロング・センターパート、伏し目がちな目元、唇の下やや右寄りのほくろ、ツヤ・グラス肌、スレンダーグラマー体型、シルバーアクセサリー、モノトーン私服）を全プロンプト共通とし、構図・撮影距離のみ変化させている。初投稿のため、水着等の有料要素は一切なし。**自宅シーンは特に、スマートフォンでの自撮り（セルフィー）感を意識した構図に統一**している。
 
@@ -95,6 +95,24 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part spread naturally around her on the pillow, dewy glass-skin complexion, wearing a thin silver chain necklace and small silver hoop earrings, lying flat on her stomach on a bed at home, chin resting near the pillow, holding a smartphone close in front of her face and looking directly into the camera lens, natural relaxed smile, wearing simple monotone loungewear with moderate everyday coverage, no emphasis on the chest, soft daytime natural light, close-up casual amateur phone-selfie photography, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
 ```
 
+**⑨ 頬を腕に乗せて横になった、眠たげな顔アップ自撮り**
+- 行動・表情：ベッドに横になり、頬を自分の前腕・枕に乗せてリラックス。少し眠たげな柔らかい表情でインカメラをまっすぐ見つめる
+- 光・時間帯：室内の柔らかい自然光、暖色系のカーテンを背景にぼかす
+- 撮られ方：顔〜肩のクローズアップ、インカメラ自撮り、縦向き
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, glossy nude-pink lips, one small natural beauty mark just below her lower lip slightly off-center, long black hair with a center part and soft face-framing strands spread naturally across the pillow, natural skin texture with visible pores and subtle imperfections, lying down on a bed with her cheek resting on her forearm on a pillow, looking directly into the phone's front-facing camera with a soft, slightly sleepy relaxed expression, close-up face-and-shoulders framing, wearing simple monotone loungewear, warm neutral-colored curtains softly blurred in the background, soft indoor natural light, taken with the phone's front-facing (inner) selfie camera, slight wide-angle lens distortion typical of a phone front camera, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
+```
+
+**⑩ マスク姿・腕を伸ばした自撮り**
+- 行動・表情：マスクをつけたまま、腕を伸ばしてスマホを構え、まっすぐインカメラを見つめる自然な自撮り
+- 光・時間帯：室内の柔らかい自然光
+- 撮られ方：腕がフレーム手前にぼやけて写る、インカメラ自撮り、縦向き
+
+```
+A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, one small natural beauty mark just below her lower lip slightly off-center (partially covered by a white face mask), long black hair with a center part, some strands softly pulled back, natural skin texture with visible pores and subtle imperfections, wearing a plain solid dark navy T-shirt with no visible logo or text, holding a smartphone at arm's length to take a selfie, her extended arm slightly blurred and close to the camera in the foreground, looking directly into the phone's front-facing camera with a calm natural gaze, wearing a plain white face mask covering her nose and mouth, a neutral textured wall or curtain softly blurred in the background, soft indoor natural light, taken with the phone's front-facing (inner) selfie camera, slight wide-angle lens distortion typical of a phone front camera, authentic candid smartphone photo quality, slight natural grain, unretouched amateur selfie look, not overly smooth or airbrushed, no nudity, no sexual content, vertical portrait orientation, 4:3 aspect ratio
+```
+
 ---
 
 ## STEP④ 生成前チェック
@@ -141,7 +159,7 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 
 ## 次の作業（ユーザー側）
 
-1. 上記8本をGPTの画像生成にそのまま貼って生成
+1. 上記10本をGPTの画像生成にそのまま貼って生成
 2. 画像QA（`02-team-structure.md`）で採用3〜4枚を選定
 3. 採用画像＋上記キャプションで明日（7/31）投稿
 4. `05-content-calendar.md` の投稿ログに1行追記（例：`2026-07-31 | 自己紹介（初投稿） | 無料 | -`）
