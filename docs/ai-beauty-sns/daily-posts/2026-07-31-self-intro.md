@@ -149,6 +149,12 @@ A 26-year-old adult Japanese woman, soft oval face with downturned almond eyes, 
 - [x] ブランドロゴ・商標名なし
 - [x] 1プロンプト1シーン
 
+## note記事タイトル
+
+```
+はじめまして、りおです
+```
+
 ## 自己紹介キャプション（日記本文）
 
 ```
