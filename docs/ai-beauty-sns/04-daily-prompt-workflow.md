@@ -83,7 +83,7 @@
 【画像の向き】
 ・全プロンプトを横向きに固定する必要はない。**構図が自然に見える向きを優先する**。
 　目安：上半身・座りポーズなど人物中心の寄りのカットは縦向き
-　（"vertical portrait orientation, 3:4 aspect ratio"）、
+　（"vertical portrait orientation, 4:3 aspect ratio"）、
 　景色や環境を広く見せる引きのカットは横向き
 　（"horizontal landscape orientation, 3:2 aspect ratio"）を使う。
 　1本のプロンプトには縦・横どちらか一方を明記する（両方入れない）。
