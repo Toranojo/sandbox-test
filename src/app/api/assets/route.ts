@@ -1,10 +1,15 @@
 import { NextRequest, NextResponse } from "next/server";
 import { prisma } from "@/lib/db";
 import { validateAndBuildAssetData } from "@/lib/assetValidation";
+import { computeCurrentValue } from "@/lib/valuation";
 
 export async function GET() {
   const assets = await prisma.asset.findMany({ orderBy: { createdAt: "desc" } });
-  return NextResponse.json(assets);
+  const withValuation = assets.map((asset) => ({
+    ...asset,
+    currentValue: computeCurrentValue(asset),
+  }));
+  return NextResponse.json(withValuation);
 }
 
 export async function POST(req: NextRequest) {
