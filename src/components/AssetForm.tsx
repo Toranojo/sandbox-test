@@ -41,6 +41,29 @@ export function AssetForm({ asset }: { asset?: Asset }) {
   async function handleSubmit(e: React.FormEvent) {
     e.preventDefault();
     setError(null);
+
+    if (!name.trim()) {
+      setError("資産名を入力してください。");
+      return;
+    }
+    if (!purchasePrice || Number(purchasePrice) <= 0) {
+      setError("購入価格を正しく入力してください。");
+      return;
+    }
+    if (!purchaseDate) {
+      setError("購入日を正しく入力してください。");
+      return;
+    }
+    if (weightMode) {
+      if (!weightGrams || Number(weightGrams) <= 0) {
+        setError("重量(グラム)を正しく入力してください。");
+        return;
+      }
+    } else if (!quantity || Number(quantity) <= 0) {
+      setError("数量を正しく入力してください。");
+      return;
+    }
+
     setSubmitting(true);
 
     const payload: Record<string, unknown> = {
@@ -80,7 +103,7 @@ export function AssetForm({ asset }: { asset?: Asset }) {
   }
 
   return (
-    <form onSubmit={handleSubmit} className="space-y-6">
+    <form onSubmit={handleSubmit} noValidate className="space-y-6">
       {error && (
         <div className="rounded-xl border border-loss/30 bg-loss/5 px-4 py-3 text-sm text-loss">{error}</div>
       )}
