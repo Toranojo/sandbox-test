@@ -45,6 +45,10 @@ npm run dev         # http://localhost:3000
 
 同様に「売り時」提案(`src/lib/advice.ts`)もルールベースのロジックで、本物のLLM呼び出しに差し替える場合も `AdviceInput → AdviceResult` の型契約は変えずに内部実装だけ置き換えられます。
 
+## iPhoneアプリ版
+
+`mobile/` に Expo(React Native)版のクライアントがあります。DBやロジックは持たず、ここで説明したWeb版のAPIをそのまま利用します。セットアップと動作確認の手順は `mobile/README.md` を参照してください。
+
 ## ディレクトリ構成
 
 ```
@@ -56,4 +60,5 @@ src/
 prisma/
   schema.prisma   # Assetモデル定義
   seed.ts         # デモデータ投入スクリプト
+mobile/           # Expo(React Native)版iPhoneアプリ(Web版のAPIを利用するクライアント)
 ```
