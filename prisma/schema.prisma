@@ -1,0 +1,45 @@
+// Prisma schema for the asset tracker MVP.
+// Uses SQLite for zero-infra local/dev persistence. To move to Postgres later,
+// change `provider` below to "postgresql" and point DATABASE_URL at a Postgres
+// instance — no model changes are required.
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+// SQLite has no native enum support in Prisma, so category/pricingMode are
+// plain strings constrained by the app-level types in src/lib/assetCategories.ts
+// (AssetCategory = "GOLD" | "PLATINUM" | "SILVER" | "WATCH" | "BAG" | "JEWELRY" | "OTHER",
+// PricingMode = "WEIGHT" | "ITEM"). Switching to Postgres later can reintroduce
+// native enums if desired, but isn't required.
+model Asset {
+  id            String        @id @default(cuid())
+  category      String
+  pricingMode   String
+
+  name          String
+  brand         String?
+  model         String?
+  notes         String?
+
+  // WEIGHT-mode fields (GOLD / PLATINUM / SILVER)
+  weightGrams   Float?
+  purity        String?
+
+  // ITEM-mode fields (WATCH / BAG / JEWELRY / OTHER)
+  quantity      Int           @default(1)
+
+  purchasePrice Int
+  purchaseDate  DateTime
+
+  imageUrl      String?
+
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+
+  @@index([category])
+}
