@@ -1,21 +1,22 @@
 // Prisma schema for the asset tracker MVP.
-// Uses SQLite for zero-infra local/dev persistence. To move to Postgres later,
-// change `provider` below to "postgresql" and point DATABASE_URL at a Postgres
-// instance — no model changes are required.
+// Postgres (Supabase). DATABASE_URL is the pooled "Transaction" connection
+// (port 6543) used at runtime; DIRECT_URL is the direct connection (port
+// 5432) used by `prisma db push` / migrate, which don't work through the
+// pooler. See README for how to get these from a Supabase project.
 datasource db {
-  provider = "sqlite"
-  url      = env("DATABASE_URL")
+  provider  = "postgresql"
+  url       = env("DATABASE_URL")
+  directUrl = env("DIRECT_URL")
 }
 
 generator client {
   provider = "prisma-client-js"
 }
 
-// SQLite has no native enum support in Prisma, so category/pricingMode are
-// plain strings constrained by the app-level types in src/lib/assetCategories.ts
-// (AssetCategory = "GOLD" | "PLATINUM" | "SILVER" | "WATCH" | "BAG" | "JEWELRY" | "OTHER",
-// PricingMode = "WEIGHT" | "ITEM"). Switching to Postgres later can reintroduce
-// native enums if desired, but isn't required.
+// category/pricingMode are plain strings (not Postgres enums) constrained by
+// the app-level types in src/lib/assetCategories.ts (AssetCategory = "GOLD" |
+// "PLATINUM" | "SILVER" | "WATCH" | "BAG" | "JEWELRY" | "OTHER", PricingMode =
+// "WEIGHT" | "ITEM"), keeping category values changeable without a DB migration.
 model Asset {
   id            String        @id @default(cuid())
   category      String
